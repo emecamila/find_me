@@ -1,0 +1,23 @@
+{
+  "@@locale": "es",
+  "@_GENERAL": {},
+  "gError": "Error",
+  "gAll": "Todos",
+  "gUnknown": "Desconocido",
+  "gMale": "Masculino",
+  "gFemale": "Femenino",
+  "@_HOME_SCREEN": {},
+  "sHomeFindMe": "Encuéntrame",
+  "sHomeFilters": "Filtros",
+  "sHomeGenderDescriptive": "Género:",
+  "sHomeSearch": "Buscar",
+  "sHomeSearchForPeople": "Buscar personas",
+  "sHomeNoPeopleFound": "No se han encontrado personas",
+  "@_PERSON_INFO_SCREEN": {},
+  "sPersonInfoBirthday": "Edad",
+  "sPersonInfoEmail": "Correo electrónico",
+  "sPersonInfoPhone": "Teléfono",
+  "sPersonInfoLocation": "Ubicación",
+  "sPersonInfoMapView": "Vista de Mapa",
+  "sPersonInfoCopyToClipboard": "Texto copiado al portapapeles"
+}

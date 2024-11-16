@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "@_GENERAL": {},
+  "gError": "Error",
+  "gAll": "All",
+  "gUnknown": "Unknown",
+  "gMale": "Male",
+  "gFemale": "Female",
+  "@_HOME_SCREEN": {},
+  "sHomeFindMe": "Find Me",
+  "sHomeFilters": "Filters",
+  "sHomeGenderDescriptive": "Gender:",
+  "sHomeSearch": "Search",
+  "sHomeSearchForPeople": "Search for people",
+  "sHomeNoPeopleFound": "No people found",
+  "@_PERSON_INFO_SCREEN": {},
+  "sPersonInfoBirthday": "Age",
+  "sPersonInfoEmail": "Email",
+  "sPersonInfoPhone": "Phone",
+  "sPersonInfoLocation": "Location",
+  "sPersonInfoMapView": "Map View",
+  "sPersonInfoCopyToClipboard": "Text copied to clipboard"
+}
